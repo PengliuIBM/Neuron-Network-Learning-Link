@@ -20,3 +20,6 @@ https://www.cs.cmu.edu/~dst/FaceDemo/resources/tutorial.html
 
 ## Dalle Image
 https://github.com/PengliuIBM/dalle-mini-image-generation
+
+## Libri Speech
+https://github.com/PengliuIBM/AI-For-Beginners/blob/main/notebooks/LibriSpeech.ipynb
