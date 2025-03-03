@@ -20,6 +20,7 @@ https://www.cs.cmu.edu/~dst/FaceDemo/resources/tutorial.html
 
 ## Dalle Image
 https://github.com/PengliuIBM/dalle-mini-image-generation
+https://github.com/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb
 
 ## Libri Speech
 https://github.com/PengliuIBM/AI-For-Beginners/blob/main/notebooks/LibriSpeech.ipynb
