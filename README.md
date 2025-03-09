@@ -18,6 +18,10 @@ https://www.manning.com/books/inside-deep-learning
 https://www.cs.cmu.edu/~dst/FaceDemo/resources/experiments.html
 https://www.cs.cmu.edu/~dst/FaceDemo/resources/tutorial.html
 
+## A Recipe for Training Neural Networks
+https://karpathy.github.io/2019/04/25/recipe/
+
+
 ## Dalle Image
 https://github.com/PengliuIBM/dalle-mini-image-generation
 https://github.com/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb
